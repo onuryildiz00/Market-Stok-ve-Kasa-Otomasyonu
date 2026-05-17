@@ -7,19 +7,19 @@ Küçük ve orta ölçekli marketler için geliştirilmiş, **Python** tabanlı 
 ## 📸 Ekran Görüntüleri
 
 ### Giriş Ekranı
-![Giriş Ekranı](screenshots/giris.png)
+![Giriş Ekranı](screenshots/giris.png.png)
 
 ### Ana Ekran
-![Ana Ekran](screenshots/ana_ekran.png)
+![Ana Ekran](screenshots/ana_ekran.png.png)
 
 ### Kasa Ekranı
-![Kasa Ekranı](screenshots/kasa.png)
+![Kasa Ekranı](screenshots/kasa.png.png)
 
 ### Satış Geçmişi
-![Satış Geçmişi](screenshots/satis_gecmisi.png)
+![Satış Geçmişi](screenshots/satis_gecmisi.png.png)
 
 ### En Çok Getiri
-![En Çok Getiri](screenshots/en_cok_kar.png)
+![En Çok Getiri](screenshots/en_cok_kar.png.png)
 
 ---
 

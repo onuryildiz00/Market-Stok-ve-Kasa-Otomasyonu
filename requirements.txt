@@ -1,0 +1,6 @@
+customtkinter
+supabase
+requests
+Pillow
+python-barcode
+matplotlib

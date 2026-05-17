@@ -1,0 +1,15 @@
+# Gizli bilgiler
+.env
+
+# Python önbelleği
+__pycache__/
+*.pyc
+
+# Sanal ortam
+venv/
+.venv/
+
+# IDE dosyaları
+.vscode/
+.idea/
+*.DS_Store
